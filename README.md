@@ -1,5 +1,5 @@
 ### Hi there! 👋 
-I'm Chiara, a junior full stack web developer. 🙃
+I'm <em><strong>Chiara</em></strong>, a junior full stack web developer. 🙃
 
 - ✨ My tech skills: Html5, Css3, Bootstrap, Javascript, Vue.js.
 - 🌱 I’m currently learning: Javascript, Vue.js, PHP, Laravel.
