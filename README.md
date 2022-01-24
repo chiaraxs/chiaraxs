@@ -10,7 +10,12 @@ I'm Chiara, a junior full stack web developer. 🙃
 <p align="center">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width=500px> 
 
-
+ <hr> 
+ 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=chiaraxs&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaraxs&theme=blue-green)
+  
+  
 <!--
 **chiaraxs/chiaraxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
