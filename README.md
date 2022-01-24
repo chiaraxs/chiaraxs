@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there! 👋 
+I'm Chiara, a junior full stack web developer. 🙃
+
+- ✨ Tech i use: Html, Css, Bootstrap, Javascript, Vue.js.
+- 🌱 I’m currently learning: Javascript, Vue.js, PHP, Laravel.
+- ⚡ Fun (but sad) fact: code bugs make me mad. 
+- 📫 How to reach me: https://www.linkedin.com/in/chiara-cardinale-032360222
+
+<hr> 
+<p align="center">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width=500px> 
+
 
 <!--
 **chiaraxs/chiaraxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
