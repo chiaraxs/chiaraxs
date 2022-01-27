@@ -1,10 +1,10 @@
-### Hi there! 👋 
-I'm <em><strong>Chiara</em></strong>, a junior full stack web developer. 🙃
+### Hi there! 👋🏻 
+I'm <em><strong>Chiara</em></strong>, a junior full stack web developer. 🙃 
 
-- ✨ My tech skills: Html5, Css3, Bootstrap, Javascript, Vue.js.
-- 🌱 I’m currently learning: Javascript, Vue.js, PHP, Laravel.
+- ✔️ My tech skills: Html5, Css3, Bootstrap, Javascript, Vue.js.
+- 💻 I’m currently learning: Javascript, Vue.js, PHP, MySQL, Laravel.
+- ✨ Others: Git, Axios, Npm, Node.js, Vue CLI, Sass, Scss.
 - ⚡ Fun (but sad) fact: code bugs make me mad. 
-- 📫 How to reach me: https://www.linkedin.com/in/chiara-cardinale-032360222
 
 <hr> 
 <p align="center">
