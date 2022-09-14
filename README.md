@@ -3,7 +3,7 @@ I'm <em><strong>Chiara</em></strong>, a junior full stack web developer based in
 
 - ✔️ My tech skills: Html5, Css3, Bootstrap, Javascript, Vue.js, PHP, MySQL, Laravel.
 - ✨ Others: Git, Day.js, Axios, Vue CLI, Carbon, Sass, Scss.
-- ⚡ Fun (but sad) fact: code bugs make me mad. 
+- ⚡ Fun (but sad) fact: code bugs make me both mad and excited. 
 
 <hr> 
 <p align="center">
