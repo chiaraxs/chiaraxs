@@ -1,8 +1,8 @@
 ### Hi there! 👋🏻 
 I'm <em><strong>Chiara</em></strong>, a junior full stack web developer based in Italy. 🙃 
 
-- ✔️ My tech skills: Html5, Css3, Bootstrap, Javascript, Vue.js, Javascript, Vue.js, PHP, MySQL, Laravel.
-- ✨ Others: Git, Day.js, Axios, Npm, Composer, Node.js, Vue CLI, Carbon, Sass, Scss.
+- ✔️ My tech skills: Html5, Css3, Bootstrap, Javascript, Vue.js, PHP, MySQL, Laravel.
+- ✨ Others: Git, Day.js, Axios, Vue CLI, Carbon, Sass, Scss.
 - ⚡ Fun (but sad) fact: code bugs make me mad. 
 
 <hr> 
