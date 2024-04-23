@@ -1,5 +1,5 @@
 ### Hi there! 👋🏻 
-I'm <em><strong>Chiara</em></strong>, a junior full stack web developer based in Italy. 🙃 
+I'm <em><strong>Chiara</em></strong>, a full stack web developer based in Italy. 🙃 
 
 - 💕 My first love was Vue.js. Then, very quickly (I'm a bad lover!), I fell in love with Php and Laravel and now it's my only brain addiction.
 - ⚡ Fun (but sad) fact: code bugs make me both mad and excited. 
