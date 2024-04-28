@@ -1,9 +1,10 @@
-### Hi there! 👋🏻 
-I'm <em><strong>Chiara</em></strong>, a full stack web developer based in Italy. 🙃 
+### Hi honeys! 👋🏻 
+My name is <em><strong>Chiara</em></strong>, a girl passionate about technology, and a full stack web developer based in Italy. 🙃 
 
-- 💕 My first love was Vue.js. Then, very quickly (I'm a bad lover!), I fell in love with Php and Laravel and now it's my only brain addiction.
+- 💕 I felt in love with programming very quicly, since 2010 but I started to really learn in 2021: my first love was Vue.js. Then, it was PHP's and Laravel's turn. I cant' live without them!
 - ⚡ Fun (but sad) fact: code bugs make me both mad and excited. 
 - ✨ I love the dark side of backend development.
+- 🌱 I’m currently especially working with PHP and Laravel on some really interesting projects.
 
 <hr> 
 <p align="center">
