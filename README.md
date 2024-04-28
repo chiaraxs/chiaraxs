@@ -8,7 +8,7 @@ My name is <em><strong>Chiara</em></strong>, a girl passionate about technology,
 
 <hr> 
 <p align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width=500px> 
+<img src="https://ibb.co/L9BXDPf" width=500px> 
 
 <!--  <hr> 
  
