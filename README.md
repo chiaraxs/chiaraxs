@@ -1,4 +1,4 @@
-### Hi honeys! 👋🏻 
+<p align="center">### Hi honeys! 👋🏻 </p>
 My name is <em><strong>Chiara</em></strong>, a girl passionate about technology, and a full stack web developer based in Italy. 🙃 
 
 - 💕 I felt in love with programming very quicly, since 2010 but I started to really learn in 2021: my first love was Vue.js. Then, it was PHP's and Laravel's turn. I cant' live without them!
