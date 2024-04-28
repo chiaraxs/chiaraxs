@@ -1,11 +1,11 @@
-<p align="center">Hi honeys! 👋🏻 </p>
+<p align="center">Hi honeys! 👋🏻 
 My name is <em><strong>Chiara</em></strong>, a girl passionate about technology, and a full stack web developer based in Italy. 🙃 
 
 - 💕 I felt in love with programming very quicly, since 2010 but I started to really learn in 2021: my first love was Vue.js. Then, it was PHP's and Laravel's turn. I cant' live without them!
 - ⚡ Fun (but sad) fact: code bugs make me both mad and excited. 
 - ✨ I love the dark side of backend development.
 - 🌱 I’m currently especially working with PHP and Laravel on some really interesting projects.
-
+</p>
 <hr> 
 <p align="center">
 <a href="https://ibb.co/L9BXDPf"><img src="https://i.ibb.co/mhdVrB7/Blue-Night-Girl-Cartoon.png" alt="Blue-Night-Girl-Cartoon" border="0"></a>
