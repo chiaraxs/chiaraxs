@@ -8,9 +8,9 @@ My name is <em><strong>Chiara</em></strong>, a girl passionate about technology,
 
 <hr> 
 <p align="center">
-<img src="https://ibb.co/L9BXDPf"> 
+<a href="https://ibb.co/L9BXDPf"><img src="https://i.ibb.co/mhdVrB7/Blue-Night-Girl-Cartoon.png" alt="Blue-Night-Girl-Cartoon" border="0"></a>
 
-<!--  <hr> 
+ <!--  <hr> 
  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=chiaraxs&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaraxs&theme=blue-green) -->
